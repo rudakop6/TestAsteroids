@@ -504,7 +504,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &637205514
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2184,7 +2184,7 @@ MonoBehaviour:
     type: 3}
   _scale: 2
   _distBulletBorders: 0
-  _distEnemyBorders: 0
+  _distEnemyBorders: 10
 --- !u!4 &2022049352
 Transform:
   m_ObjectHideFlags: 0
